@@ -1,10 +1,11 @@
-# Node.js template
+# Node.js
 
 This is a Node.js project.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
+# Description
 
-## Resources
+This project outputs a QR Code for the URL of the website entered.
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+# Output
+
+Download the projet into a zip file, extract it all. Make sure node.js and nvm are installed on your local machine. Run % npm start % and install npm dependencies inquirer and qr-image. Type % nodemon index.js % and provide the url in the console. And your qr image is created.
